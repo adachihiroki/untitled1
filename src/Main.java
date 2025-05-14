@@ -5,6 +5,7 @@ public class Main {
         //TIP ハイライトされたテキストにキャレットがある状態で <shortcut actionId="ShowIntentionActions"/> を押すと
         // IntelliJ IDEA によるその修正案を確認できます。
         System.out.println("安達大揮");
+        System.out.println("ファイルの変更を加える");
 
         for (int i = 1; i <= 5; i++) {
             System.out.println("Helloworld");
